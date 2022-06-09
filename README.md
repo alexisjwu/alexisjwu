@@ -21,7 +21,7 @@ Feel free to reach out to me at any of the following. I'd be happy to chat!
 
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=alexisjwu&theme=midnight-purple&show_icons=true&count_private=true&hide=stars,commits,prs,issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=alexisjwu&theme=midnight-purple&show_icons=true&count_private=true&hide=,prs,issues,contribs)
 
 <!--
 **alexisjwu/alexisjwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
