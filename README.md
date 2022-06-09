@@ -13,7 +13,7 @@
 * Independent ML and space physics researcher at the University of Colorado, Boulder (2020-21)
 * Full-stack iOS app development intern at CodeDay CodeLabs (2020)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=alexisjwu&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
 ### Contact
 Feel free to email me at alexiswu@princeton.edu. I'd be happy to chat!
