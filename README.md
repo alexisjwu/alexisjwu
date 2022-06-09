@@ -2,9 +2,9 @@
 
 I'm currently a
 
-* 🖥️ R&D Engineering Intern at CUbits.ai
-* 🎓 Computer Science student at Princeton University '25
-* ✍️ Princeton Engineering Correspondent on Undergraduate Research
+* 🖥️  R&D Engineering Intern at CUbits.ai
+* 🎓  Computer Science student at Princeton University '25
+* ✍️  Princeton Engineering Correspondent on Undergraduate Research
 
 <!--
 **alexisjwu/alexisjwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
