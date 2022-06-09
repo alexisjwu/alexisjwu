@@ -17,7 +17,7 @@
 ### Contact
 Feel free to reach out to me at any of the following. I'd be happy to chat!
 * Email: alexiswu@princeton.edu
-* [Linkedin](http://linkedin.com/in/alexisjwu)
+* Connect with me on [Linkedin](http://linkedin.com/in/alexisjwu)
 
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
