@@ -1,9 +1,9 @@
-### Welcome to Alexis Wu's World! 👋
+# Welcome to Alexis Wu's World! 👋
 
-I'm currently a
+### About Me
 
 * 🖥️  R&D Engineering Intern at CUbits.ai
-* 🎓  Computer Science student at Princeton University '25
+* 🎓  Studying Computer Science at Princeton University ('25)
 * ✍️  Princeton Engineering Correspondent on Undergraduate Research
 
 <!--
