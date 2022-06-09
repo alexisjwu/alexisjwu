@@ -1,4 +1,4 @@
-# Welcome to Alexis Wu's World! 👋
+<h2 align="center"> Welcome to Alexis Wu's World! </h2>
 
 ### About Me
 
