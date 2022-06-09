@@ -1,10 +1,14 @@
-<h2 align="center"> Hey, I'm Alexis! </h2>
+<h2 align="center"> Hey, I'm Alexis Wu! 👋 </h2>
 
 ### About Me
 
 * 🖥️  R&D Engineering Intern at CUbits.ai
 * 🎓  Studying Computer Science at Princeton University ('25)
 * ✍️  Princeton Engineering Correspondent on Undergraduate Research
+
+
+### Contact
+Feel free to email me at alexiswu@princeton.edu. I'd be happy to chat!
 
 <!--
 **alexisjwu/alexisjwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
