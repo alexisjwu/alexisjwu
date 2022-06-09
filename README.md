@@ -1,7 +1,7 @@
 <div> <h2 align="center"> Hey, I'm Alexis Wu! 👋 </h2> 
 </div>
 
-![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### Currently
 
