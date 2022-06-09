@@ -1,4 +1,6 @@
-<h2 align="center"> Hey, I'm Alexis Wu! 👋 </h2>
+<div> <h2 align="center"> Hey, I'm Alexis Wu! 👋 </h2> 
+![](https://komarev.com/ghpvc/?username=alexisjwu)
+</div>
 
 ### Currently
 
@@ -12,8 +14,6 @@
 * Lead Python and ML instructor at EdTech co. NexStream Technical Institute (2020-present)
 * Independent ML and space physics researcher at the University of Colorado, Boulder (2020-21)
 * Full-stack iOS app development intern at CodeDay CodeLabs (2020)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 
 ### Contact
 Feel free to email me at alexiswu@princeton.edu. I'd be happy to chat!
