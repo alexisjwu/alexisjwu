@@ -1,8 +1,6 @@
 <div> <h2 align="center"> Hey, I'm Alexis Wu! 👋 </h2> 
 </div>
 
-![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
-
 ### Currently
 
 * 🖥️  R&D Engineering Intern at CUbits.ai
@@ -18,6 +16,8 @@
 
 ### Contact
 Feel free to email me at alexiswu@princeton.edu. I'd be happy to chat!
+
+![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 <!--
 **alexisjwu/alexisjwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
