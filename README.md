@@ -7,10 +7,10 @@
 * ✍️  Princeton Engineering Correspondent on Undergraduate Research
 
 ### Professional Experience
-* Inaugural measurement extraction developer at TrueToForm
-* Lead Python and ML instructor at EdTech co. NexStream Technical Institute
-* Independent ML and space physics researcher at the University of Colorado, Boulder
-* Full-stack iOS app development intern at CodeDay CodeLabs
+* 👕 Inaugural measurement extraction developer at TrueToForm
+* 📖 Lead Python and ML instructor at EdTech co. NexStream Technical Institute
+* 🪐 Independent ML and space physics researcher at the University of Colorado, Boulder
+* 📱 Full-stack iOS app development intern at CodeDay CodeLabs
 
 ### Contact
 Feel free to reach out to me at any of the following. I'd be happy to chat!
