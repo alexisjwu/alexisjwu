@@ -1,4 +1,4 @@
-<div> <h2 align="center"> Hey, I'm Alexis Wu! 👋 </h2> 
+<div> <h2 align="center"> Hi, I'm Alexis Wu! 👋 </h2> 
 </div>
 
 ### About Me
