@@ -9,13 +9,15 @@
 
 ### Professional Experience
 
-* Inaugural measurement extraction developer at TrueToForm (SWE Internship, 2021)
-* Lead Python and ML instructor at EdTech co. NexStream Technical Institute (2020-present)
-* Independent ML and space physics researcher at the University of Colorado, Boulder (2020-21)
-* Full-stack iOS app development intern at CodeDay CodeLabs (2020)
+* Inaugural measurement extraction developer at TrueToForm
+* Lead Python and ML instructor at EdTech co. NexStream Technical Institute
+* Independent ML and space physics researcher at the University of Colorado, Boulder
+* Full-stack iOS app development intern at CodeDay CodeLabs
 
 ### Contact
-Feel free to email me at alexiswu@princeton.edu. I'd be happy to chat!
+Feel free to reach out to me at any of the following. I'd be happy to chat!
+* Email: alexiswu@princeton.edu
+* [Linkedin](http://linkedin.com/in/alexisjwu)
 
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
