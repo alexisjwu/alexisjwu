@@ -1,5 +1,5 @@
 <div> 
-  <h2 align="center"> Hi, I'm Alexis Wu 👋 <p> Welcome to my Github! </p> </h2> 
+  <h2 align="center"> Hi, I'm Alexis Wu 👋 </h2> 
 </div>
 
 ### About Me
