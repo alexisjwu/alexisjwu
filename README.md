@@ -4,7 +4,7 @@
 
 ### About Me
 * 🖥️  R&D Engineering Intern at CUbits.ai
-* 🎓  Studying Computer Science at Princeton University ('25)
+* 🎓  Studying Computer Science at Princeton University (Class of '25)
 * ✍️  Princeton Engineering Correspondent on Undergraduate Research
 
 ### Professional Experience
