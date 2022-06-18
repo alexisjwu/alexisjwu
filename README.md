@@ -2,6 +2,8 @@
   <h2 align="center"> Hi, I'm Alexis Wu 👋 </h2> 
 </div>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=alexisjwu&theme=midnight-purple&show_icons=true&count_private=true&hide=,issues,contribs)
+
 ### About Me
 * 🖥️  R&D Engineering Intern at CUbits.ai
 * 🎓  Studying Computer Science at Princeton University (Class of '25)
