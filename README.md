@@ -20,8 +20,6 @@ Feel free to reach out to me at any of the following. I'd be happy to chat!
 * Email: alexiswu@princeton.edu
 * Connect with me on [Linkedin](http://linkedin.com/in/alexisjwu)!
 
-![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alexisjwu&theme=midnight-purple&show_icons=true&count_private=true&hide=,issues,contribs)
 
 <!--
