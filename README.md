@@ -7,7 +7,7 @@
 ### About Me
 * 🖥️  R&D Engineering Intern at CUbits.ai
 * 🎓  Studying Computer Science at Princeton University (Class of '25)
-* ✍️  Princeton Engineering Correspondent on Undergraduate Research
+* ✍️  Princeton Correspondent on Undergraduate Research
 
 ### Professional Experience
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
