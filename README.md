@@ -11,8 +11,8 @@
 
 ### Professional Experience
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
-* 📖 Lead Python and ML instructor at EdTech company NexStream Technical Institute
-* 🪐 Independent ML and space physics researcher at the University of Colorado, Boulder ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
+* 📖 Lead Python and ML instructor at NexStream Technical Institute (EdTech)
+* 🪐 Independent ML researcher at the University of Colorado, Boulder ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
 * 📱 Full-stack iOS app development intern at CodeDay CodeLabs
 
 ### Contact
