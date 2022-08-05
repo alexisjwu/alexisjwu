@@ -5,12 +5,12 @@
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### About Me
-* 🖥️  R&D Engineering Intern at CUbits.ai
 * 🎓  Studying Computer Science at Princeton University (Class of '25)
 * 🌎  Software Developer at Princeton's Hack4Impact Chapter
 * ✍️  Princeton Correspondent on Undergraduate Research
 
 ### Professional Experience
+* 🖥️  R&D Engineering Intern at CUbits.ai
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
 * 📖 Lead Python and ML instructor at NexStream Technical Institute (EdTech)
 * 🪐 Independent ML researcher at the University of Colorado, Boulder ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
