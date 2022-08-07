@@ -7,7 +7,7 @@
 ### About Me
 * 🎓  Studying Computer Science at Princeton University (Class of '25)
 * 🌎  Software Developer at Princeton's Hack4Impact Chapter
-* ✍️  Princeton Correspondent on Undergraduate Research
+* ✍️  Princeton Engineering Correspondent on Undergraduate Research
 
 ### Professional Experience
 * 🖥️  R&D Engineering Intern at CUbits.ai
