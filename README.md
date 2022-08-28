@@ -10,7 +10,7 @@
 * ✍️  Princeton Engineering Correspondent on Undergraduate Research ([PCUR](https://pcur.princeton.edu/correspondents-profile/))
 
 ### Professional Experience
-* 🖥️  R&D Engineering Intern at CUbits.ai
+* 🖥️  Full-Stack R&D Engineering Intern at CUbits.ai
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
 * 📖 Lead Python and ML instructor at NexStream Technical Institute (EdTech)
 * 🪐 Independent ML researcher at the University of Colorado, Boulder ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
