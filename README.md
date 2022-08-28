@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### About Me
-* 🎓  Studying CS at Princeton University (Class of '25)
+* 🐅  Studying CS at Princeton University (Class of '25)
 * 🌎  Software Developer at Princeton's Hack4Impact Chapter
 * ✍️  Princeton Engineering Correspondent on Undergraduate Research ([PCUR](https://pcur.princeton.edu/correspondents-profile/))
 
