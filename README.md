@@ -10,7 +10,7 @@
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research ([PCUR](https://pcur.princeton.edu/author/alexis-wu/))
 
 ### Professional Experience
-* 🖥️  Full-Stack R&D Engineering Intern at CUbits.ai
+* 🖥️  Full-Stack R&D Engineering Intern at CUbits.ai (Summer 2022)
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
 * 📖 Lead Python and ML instructor at NexStream Technical Institute (EdTech)
 * 🪐 Independent ML researcher at the University of Colorado, Boulder ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
