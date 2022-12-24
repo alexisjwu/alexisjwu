@@ -10,7 +10,7 @@
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research ([PCUR](https://pcur.princeton.edu/author/alexis-wu/))
 
 ### Professional Experience
-* :star: Incoming
+* :star2: Incoming SDE Intern at Amazon (Summer 2023)
 * 🖥️  Full-Stack R&D Engineering Intern at CUbits.ai (Summer 2022)
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
 * 📖 Lead Python and ML instructor at NexStream Technical Institute (EdTech)
