@@ -6,8 +6,8 @@
 
 ### About Me
 * 🐅  Studying CS at Princeton University (Class of '25)
-* 🌎  Tech Lead at Princeton's Hack4Impact Chapter
-* ✍️  Engineering Correspondent for the Office of Undergraduate Research ([PCUR](https://pcur.princeton.edu/author/alexis-wu/))
+* 🌎  **Tech Lead** for Princeton's Hack4Impact Chapter
+* ✍️  **Engineering Correspondent** for the Office of Undergraduate Research ([PCUR](https://pcur.princeton.edu/author/alexis-wu/))
 
 ### Professional Experience
 * :star2: Incoming SDE Intern at Amazon (Summer 2023)
