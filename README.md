@@ -6,7 +6,7 @@
 
 ### About Me
 * 🐅  Studying CS at Princeton University (Class of '25)
-* 🌎  Software Developer at Princeton's Hack4Impact Chapter
+* 🌎  Tech Lead at Princeton's Hack4Impact Chapter
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research ([PCUR](https://pcur.princeton.edu/author/alexis-wu/))
 
 ### Professional Experience
