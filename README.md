@@ -6,7 +6,7 @@
 
 ### About Me
 * 🐅  Studying CS at Princeton University (Class of '25)
-* ✍️  Engineering Correspondent for the Office of Undergraduate Research (Read my articles [here]!(https://pcur.princeton.edu/author/alexis-wu/))
+* ✍️  Engineering Correspondent for the Office of Undergraduate Research (Read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
 ### Professional Experience
 * :star2: Incoming SDE Intern at Amazon (Summer 2023)
