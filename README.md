@@ -6,7 +6,7 @@
 
 ### About Me
 * 🐅  Studying CS @ Princeton University (Class of 2025)
-* 💻 Interests in human-computer interaction, machine learning, and creating accessible technology
+* 💻 Interested in human-computer interaction, machine learning, and creating accessible technology
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
 ### Current Projects
