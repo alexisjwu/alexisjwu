@@ -25,4 +25,4 @@
 * Email: alexiswu@princeton.edu
 * Connect with me on [Linkedin](http://linkedin.com/in/alexisjwu)!
 
-![Alexis's Github Stats](https://github-contributor-stats.vercel.app/api?username=alexisjwu&hide=B,B%2B&theme=midnight-purple&show_icons=true&count_private=true&hide=,issues)
+![Alexis's Github Stats](https://github-contributor-stats.vercel.app/api?username=alexisjwu&hide=B&theme=midnight-purple&show_icons=true&count_private=true&hide=,issues)
