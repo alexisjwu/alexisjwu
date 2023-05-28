@@ -8,9 +8,11 @@
 * 🐅  Studying CS at Princeton University (Class of '25)
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
-### Professional Experience
+### Current Projects
 * :star2: Incoming SDE Intern at Amazon (Summer 2023)
 * ⚓ Full-Stack Developer for [Anchor Link](https://anchorlink.onrender.com/) 
+
+### Professional Experience
 * 🌲  Former Tech Lead and Developer for Princeton's Hack4Impact Chapter
 * 🖥️  Full-Stack R&D Engineering Intern at CUbits.ai (Summer 2022)
 * 👕 Inaugural measurement extraction developer at TrueToForm (SWE Intern)
