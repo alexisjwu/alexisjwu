@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### About Me
-* 🐅  Rising junior (c/o 2025) at Princeton University
+* 🐅  Rising junior at Princeton University ('25)
 * 💻 Majoring in Computer Science with interests in Human-Computer Interaction and Machine Learning
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
