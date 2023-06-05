@@ -10,7 +10,7 @@
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
 ### Current Projects
-* :star2: Incoming SDE Intern at Amazon (Summer 2023)
+* :star2: SDE Intern at Amazon (Buyers Abuse Prevention)
 * ⚓ Full-Stack Developer for [Anchor Link](https://anchorlink.onrender.com/) 
 
 ### Professional Experience
