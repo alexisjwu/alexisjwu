@@ -9,9 +9,6 @@
 * 💻 Interested in human-computer interaction, machine learning, and creating accessible technology
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
-### Current Projects
-* Human-Computer Interaction research on educator's opinions on ChatGPT use
-
 ### Professional Experience
 * :star2: SDE Intern at Amazon (Buyer Abuse Prevention)
 * ⚓ Full-Stack Developer for [Anchor Link](https://anchorlink.onrender.com/) 
