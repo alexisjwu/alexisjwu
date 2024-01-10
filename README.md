@@ -22,4 +22,4 @@
 
 ### Contact
 * Email: alexiswu@princeton.edu
-* Connect with me on [Linkedin](http://linkedin.com/in/alexisjwu) or [Mastodon](https://hci.social/@alexiswu)!
+* Connect with me on [Linkedin](http://linkedin.com/in/alexisjwu)!
