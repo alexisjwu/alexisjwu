@@ -6,11 +6,11 @@
 
 ### About Me
 * 🐅  Studying CS @ Princeton University (Class of 2025)
-* 💻 Interested in human-computer interaction, machine learning, and creating accessible technology
-* 👩🏻‍🏫 Computer Science Department Undergraduate Course Assistant
+* 💻 Interested in machine learning, NLP, and human-computer interaction
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
 ### Professional Experience
+* 👩🏻‍🏫 Computer Science Department Undergraduate Course Assistant
 * :star2: SDE Intern at Amazon (Buyer Abuse Prevention, Summer 2023)
 * ⚓ Full-Stack Developer for [Anchor Link](https://anchorlink.onrender.com/) 
 * 🌲  Tech Lead and Developer for Princeton's Hack4Impact Chapter
