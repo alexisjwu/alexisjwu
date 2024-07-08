@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### About Me
-* 🐅  Studying CS @ Princeton University (Class of 2025)
+* 🐅  Studying CS @ Princeton University (expected graduation: May 2025)
 * 🧡 Returning SDE Intern at Amazon (Summer 2024)
 * 💻 Interested in machine learning, NLP, human-computer interaction, and tech policy
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
