@@ -6,9 +6,9 @@
 
 ### About Me
 * 🐅  Studying CS @ Princeton University (Class of 2025)
+* 🧡 Returning SDE Intern at Amazon (Summer 2024)
 * 💻 Interested in machine learning, NLP, human-computer interaction, and tech policy
 * ✍️  Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
-* 🧡 Returning as an SDE Intern at Amazon (Summer 2024)
 
 ### Professional Experience
 * 👩🏻‍🏫 Computer Science Department Undergraduate Course Assistant
