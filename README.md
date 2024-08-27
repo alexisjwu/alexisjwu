@@ -16,9 +16,9 @@
 * Lead Python and ML instructor at NexStream Technical Institute (EdTech)
 
 ### Research Experience
-* "Analyzing RANKGEN Across Different Domains", advised by Professor Karthik Narasimhan (completed May 2024).
-* "Disaster Tweet Classification: A Comparative Analysis of Conventional and Deep Neural Network Models", advised by Dr. Jake Snell and Dr. Gabriele Dragotto (completed May 2024).
-* "Educators' Opinions on ChatGPT Use for Computer Science Education", advised by Professor Andrés Monroy-Hernández, Professor Parastoo Abtahi, and Yuhan Liu (completed December 2023).
+* "Analyzing RANKGEN Across Different Domains", advised by Professor Karthik Narasimhan (completed May 2024)
+* "Disaster Tweet Classification: A Comparative Analysis of Conventional and Deep Neural Network Models", advised by Dr. Jake Snell and Dr. Gabriele Dragotto (completed May 2024)
+* "Educators' Opinions on ChatGPT Use for Computer Science Education", advised by Professor Andrés Monroy-Hernández, Professor Parastoo Abtahi, and Yuhan Liu (completed December 2023)
 * "Machine Learning-based Investigation of Feature Importance for High-latitude Ionospheric Scintillation Forecasting", advised by Yunxiang Liu and Dr. Jade Morton ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
 
 ### Web/App Dev Experience
