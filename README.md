@@ -8,17 +8,17 @@
 * Studying CS @ Princeton University (May 2025)
 * Interested in machine learning, systems design, and tech policy
 * Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
-* Computer Science Department Undergraduate Course Assistant
 
 ### Professional Experience
 * 2x SDE Intern at Amazon (Summer 2023, 2024)
+* Computer Science Department Undergraduate Course Assistant
 * Inaugural measurement extraction developer at TrueToForm (SWE Intern)
 * Lead Python and ML instructor at NexStream Technical Institute (EdTech)
 
-### Research Papers
-* "Analyzing RANKGEN Across Different Domains", advised by Professor Karthik Narasimhan (unpublished, completed May 2024).
-* "Disaster Tweet Classification: A Comparative Analysis of Conventional and Deep Neural Network Models", advised by Dr. Jake Snell and Dr. Gabriele Dragotto (unpublished, completed May 2024).
-* "Educators' Opinions on ChatGPT Use for Computer Science Education", advised by Professor Andrés Monroy-Hernández, Professor Parastoo Abtahi, and Yuhan Liu (unpublished, completed December 2023).
+### Research Experience
+* "Analyzing RANKGEN Across Different Domains", advised by Professor Karthik Narasimhan (completed May 2024).
+* "Disaster Tweet Classification: A Comparative Analysis of Conventional and Deep Neural Network Models", advised by Dr. Jake Snell and Dr. Gabriele Dragotto (completed May 2024).
+* "Educators' Opinions on ChatGPT Use for Computer Science Education", advised by Professor Andrés Monroy-Hernández, Professor Parastoo Abtahi, and Yuhan Liu (completed December 2023).
 * "Machine Learning-based Investigation of Feature Importance for High-latitude Ionospheric Scintillation Forecasting", advised by Yunxiang Liu and Dr. Jade Morton ([abstract](https://www.ion.org/publications/abstract.cfm?articleID=17855))
 
 ### Web/App Dev Experience
