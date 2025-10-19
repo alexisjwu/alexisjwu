@@ -5,15 +5,16 @@
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### About Me
-* Studying CS @ Princeton University (May 2025)
+* SDE @ Amazon
+* CS @ Princeton University (Class of 2025)
 * Interested in machine learning, systems design, and tech policy
-* Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
 ### Professional Experience
 * 2x SDE Intern at Amazon (Summer 2023, 2024)
 * Computer Science Department Undergraduate Course Assistant
 * Inaugural measurement extraction developer at TrueToForm (SWE Intern)
 * Lead Python and ML instructor at NexStream Technical Institute (EdTech)
+* Engineering Correspondent for the Office of Undergraduate Research (read my articles [here](https://pcur.princeton.edu/author/alexis-wu/)!)
 
 ### Research Experience
 * "Analyzing RANKGEN Across Different Domains", advised by Professor Karthik Narasimhan (completed May 2024)
