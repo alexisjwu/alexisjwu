@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=alexisjwu&color=blueviolet&style=flat)
 
 ### About Me
-* SDE @ Amazon
+* Software Development Engineer at Amazon
 * CS @ Princeton University (Class of 2025)
 * Interested in machine learning, systems design, and tech policy
 
